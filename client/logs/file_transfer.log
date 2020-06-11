@@ -1,0 +1,54 @@
+10/06/2020 14:33:02.640 INFO  [trivial] start file transfer client 127.0.0.1:6666
+10/06/2020 14:33:02.656 ERROR [trivial] file not exists, foo
+10/06/2020 14:33:05.656 INFO  [trivial] query xiaomi_ts_20200606_930_1530
+10/06/2020 14:41:55.812 INFO  [trivial] start file transfer client 127.0.0.1:6666
+10/06/2020 14:41:55.812 ERROR [trivial] file not exists, foo
+10/06/2020 14:41:58.828 INFO  [trivial] query xiaomi_ts_20200606_930_1530
+10/06/2020 14:52:54.656 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 14:52:54.656 ERROR file not exists, foo
+10/06/2020 14:52:57.656 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 14:55:49.703 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 14:55:49.718 ERROR file not exists, foo
+10/06/2020 14:55:52.718 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 14:56:33.484 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 14:56:33.484 ERROR file not exists, foo
+10/06/2020 14:56:36.484 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 14:57:13.625 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 14:57:13.625 ERROR file not exists, foo
+10/06/2020 14:57:16.625 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 14:59:52.859 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 14:59:52.859 ERROR file not exists, foo
+10/06/2020 14:59:55.875 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 14:59:58.609 INFO  file xiaomi_ts_20200606_930_1530 exists
+10/06/2020 15:02:16.671 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 15:02:16.687 ERROR file not exists, foo
+10/06/2020 15:02:19.687 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 15:02:19.687 INFO  start query file xiaomi_ts_20200606_930_1530
+10/06/2020 15:02:25.203 INFO  start connect 127.0.0.1:6666
+10/06/2020 15:02:27.218 ERROR 由于目标计算机积极拒绝，无法连接。
+10/06/2020 15:04:05.593 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 15:04:05.593 ERROR file not exists, foo
+10/06/2020 15:04:08.593 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 15:04:08.593 INFO  start query file xiaomi_ts_20200606_930_1530
+10/06/2020 15:04:08.593 INFO  start connect 127.0.0.1:6666
+10/06/2020 15:04:10.609 ERROR 由于目标计算机积极拒绝，无法连接。
+10/06/2020 15:04:39.593 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 15:04:53.765 ERROR file not exists, foo
+10/06/2020 15:04:56.765 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 15:04:56.765 INFO  start query file xiaomi_ts_20200606_930_1530
+10/06/2020 15:04:56.765 INFO  start connect 127.0.0.1:6666
+10/06/2020 15:04:58.765 ERROR 由于目标计算机积极拒绝，无法连接。
+10/06/2020 15:07:09.531 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 15:07:09.546 INFO  start send foo
+10/06/2020 15:07:09.546 ERROR file not exists, foo
+10/06/2020 15:07:12.546 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 15:07:12.546 INFO  start query file xiaomi_ts_20200606_930_1530
+10/06/2020 15:07:12.546 INFO  start connect 127.0.0.1:6666
+10/06/2020 15:07:14.546 ERROR 由于目标计算机积极拒绝，无法连接。
+10/06/2020 15:12:03.968 INFO  start file transfer client 127.0.0.1:6666
+10/06/2020 15:12:03.968 INFO  start send foo
+10/06/2020 15:12:03.968 ERROR file not exists, E:/my/FileTransfer/client/foo
+10/06/2020 15:12:06.968 INFO  query xiaomi_ts_20200606_930_1530
+10/06/2020 15:12:06.968 INFO  start query file xiaomi_ts_20200606_930_1530
+10/06/2020 15:12:06.968 INFO  start connect 127.0.0.1:6666
+10/06/2020 15:12:08.968 ERROR 由于目标计算机积极拒绝，无法连接。
